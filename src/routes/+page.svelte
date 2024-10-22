@@ -5,7 +5,7 @@
 
 <h1>Welcome to simple Client/DB site</h1>
 <p>Bits and pieces to get started in Svelte and Sveltekit</p>
-<p>SvelteKit using PostgreSQL for a database</p>
+<p>SvelteKit using PostgreSQL for a database called evergardendb</p>
 
 <p>Step 1: See how to use a PostgreSQL database</p>
 <span class=note>(For this to work, you MUST create a file called .env at the project root, and it must have the following parameter in: "PGCONNECT")</span>
