@@ -25,3 +25,4 @@
     }
 </style>
 <a href="/brucetest20">Check out the new page</a>
+<br/><a href="/brucetest21">Check out the new page</a>
