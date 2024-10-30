@@ -5,6 +5,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
+		"start": "node build",
 		"preview": "vite preview",
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write ."
@@ -25,6 +26,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-node": "^5.2.9",
+		"@sveltejs/adapter-vercel": "^5.4.6",
 		"postgres": "^3.4.4",
 		"vite-plugin-mkcert": "^1.17.5"
 	}
