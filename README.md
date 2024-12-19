@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-[http://deploy-this-repo-jbouyer.vercel.app/](http://deploy-this-repo-jbouyer.vercel.app/)
+<http://deploy-this-repo-jbouyer.vercel.app>
 
 
